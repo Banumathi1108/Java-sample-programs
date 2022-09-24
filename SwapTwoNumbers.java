@@ -22,5 +22,4 @@ public class SwapNumbers {
         System.out.println("First number = " + num1);
         System.out.println("Second number = " + num2);
 	}
-
 }
